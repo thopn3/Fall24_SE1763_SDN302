@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_basic",
+  "version": "1.0.0",
+  "description": "NodeJS Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "ThoPN",
+  "license": "ISC"
+}
